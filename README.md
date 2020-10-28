@@ -1,5 +1,6 @@
 # Unity_Game-RollerBall_Madness
-This is a Week3 project of course **"Introduction to Game Development"** on coursera 
+This is a Week3 project of course **"Introduction to Game Development"** on coursera .
+
 Goal : Collect the coins while avoiding the enemies .
 
 Levels as of now : 2
