@@ -5,7 +5,7 @@ Goal : Collect the coins while avoiding the enemies .
 
 Levels as of now : 2
 
-To play : Download the project ,open the builds folder and run exe file.
+**To play** : Download the project ,open the builds folder and run exe file.
 
 ![image](https://user-images.githubusercontent.com/36453230/97418338-b8875900-192e-11eb-85bf-9c3aed7db5e8.png)
 
