@@ -13,6 +13,6 @@ Levels as of now : 2
 ![image](https://user-images.githubusercontent.com/36453230/97422033-3fd6cb80-1933-11eb-8df4-60cd34b062b7.png)
 
 
-![image](https://user-images.githubusercontent.com/36453230/97422204-83c9d080-1933-11eb-9525-cd9d7577c655.png)
+![image](https://user-images.githubusercontent.com/36453230/97422333-ab209d80-1933-11eb-97a0-918d1051c2a8.png)
 
 
